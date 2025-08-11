@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:37:16 CEST 2025
+client-java-android-0.10.0-SNAPSHOT-android-sdk.jar>=
+client-java-android-0.10.0-SNAPSHOT-java-android-sdk.jar>=
+client-java-android-0.10.0-SNAPSHOT.jar>=
+client-java-android-0.10.0-SNAPSHOT-javadoc.jar>=
+client-java-android-0.10.0-SNAPSHOT.pom>=

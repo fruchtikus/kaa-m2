@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:44:34 CEST 2025
+avro-ipc-1.7.5-KAA.jar>repository.kaaproject=
+avro-ipc-1.7.5-KAA.pom>repository.kaaproject=
+avro-ipc-1.7.5-KAA.jar>typesafe=
+avro-ipc-1.7.5-KAA.pom>typesafe=
+avro-ipc-1.7.5-KAA-tests.jar>typesafe=
+avro-ipc-1.7.5-KAA-tests.jar>repository.kaaproject=

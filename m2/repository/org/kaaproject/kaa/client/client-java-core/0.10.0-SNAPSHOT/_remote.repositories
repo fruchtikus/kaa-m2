@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:35:58 CEST 2025
+client-java-core-0.10.0-SNAPSHOT-tests.jar>=
+client-java-core-0.10.0-SNAPSHOT-java-sdk-templates.tar.gz>=
+client-java-core-0.10.0-SNAPSHOT.jar>=
+client-java-core-0.10.0-SNAPSHOT-javadoc.jar>=
+client-java-core-0.10.0-SNAPSHOT.pom>=

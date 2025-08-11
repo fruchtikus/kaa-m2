@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 19 11:18:45 CEST 2016
+guava-18.0.jar>central=
+guava-18.0.jar>sonatype=
+guava-18.0.pom>sonatype=

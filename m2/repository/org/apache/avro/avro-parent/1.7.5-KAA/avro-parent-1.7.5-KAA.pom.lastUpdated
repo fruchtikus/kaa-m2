@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 14:45:21 CEST 2025
+http\://localhost/repository/internal/.error=
+http\://localhost/repository/snapshots/.lastUpdated=1754483042119
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.avro\:avro-parent\:pom\:1.7.5-KAA from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [typesafe (http\://repo.typesafe.com/typesafe/releases/, default, releases+snapshots), central (http\://repo1.maven.org/maven2/, default, releases+snapshots), twitter-twttr (http\://maven.twttr.com/, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1754483608424
+http\://repo.typesafe.com/typesafe/releases/.error=
+http\://localhost/repository/snapshots/.error=
+http\://maven.twttr.com/.lastUpdated=1476863750318
+https\://oss.sonatype.org/content/groups/public/.error=
+http\://localhost/repository/internal/.lastUpdated=1754483042091
+http\://repo1.maven.org/maven2/.lastUpdated=1476863749976
+https\://repo.maven.apache.org/maven2/.lastUpdated=1754483042315
+http\://localhost/repository/.lastUpdated=1754484321706
+http\://repo1.maven.org/maven2/.error=
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1476863749286
+http\://repository.kaaproject.org/repository/internal/.lastUpdated=1476863750731
+https\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1754483042078
+http\://maven.twttr.com/.error=

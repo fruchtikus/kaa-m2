@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:35:03 CEST 2025
+endpoint-shared-0.10.0-SNAPSHOT.pom>=
+endpoint-shared-0.10.0-SNAPSHOT-sources.jar>=
+endpoint-shared-0.10.0-SNAPSHOT-avro.zip>=
+endpoint-shared-0.10.0-SNAPSHOT.jar>=
+endpoint-shared-0.10.0-SNAPSHOT-tests.jar>=
+endpoint-shared-0.10.0-SNAPSHOT-javadoc.jar>=

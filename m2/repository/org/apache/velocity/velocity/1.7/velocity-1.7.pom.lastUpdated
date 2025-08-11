@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 04 09:25:41 UTC 2024
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1720085141652
+http\://repo.typesafe.com/typesafe/releases/.error=Could not transfer artifact org.apache.velocity\:velocity\:pom\:1.7 from/to typesafe (http\://repo.typesafe.com/typesafe/releases/)\: Transfer failed for http\://repo.typesafe.com/typesafe/releases/org/apache/velocity/velocity/1.7/velocity-1.7.pom
+@default-typesafe-http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1720085141219

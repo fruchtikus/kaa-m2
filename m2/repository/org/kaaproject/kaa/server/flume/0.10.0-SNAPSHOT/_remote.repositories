@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:53:37 CEST 2025
+flume-0.10.0-SNAPSHOT-javadoc.jar>=
+flume-0.10.0-SNAPSHOT-tests.jar>=
+flume-0.10.0-SNAPSHOT.deb>=
+flume-0.10.0-SNAPSHOT.pom>=
+flume-0.10.0-SNAPSHOT-sources.jar>=
+flume-0.10.0-SNAPSHOT.jar>=

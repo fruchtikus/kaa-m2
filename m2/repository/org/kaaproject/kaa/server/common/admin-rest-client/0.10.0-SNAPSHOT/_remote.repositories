@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:41:42 CEST 2025
+admin-rest-client-0.10.0-SNAPSHOT.jar>=
+admin-rest-client-0.10.0-SNAPSHOT.pom>=
+admin-rest-client-0.10.0-SNAPSHOT-tests.jar>=
+admin-rest-client-0.10.0-SNAPSHOT-javadoc.jar>=

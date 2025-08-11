@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 04 09:25:07 UTC 2024
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1720085107923
+http\://repo.typesafe.com/typesafe/releases/.error=Could not transfer artifact org.springframework.security\:spring-security-bom\:pom\:3.2.9.RELEASE from/to typesafe (http\://repo.typesafe.com/typesafe/releases/)\: Transfer failed for http\://repo.typesafe.com/typesafe/releases/org/springframework/security/spring-security-bom/3.2.9.RELEASE/spring-security-bom-3.2.9.RELEASE.pom
+@default-typesafe-http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1720085107027

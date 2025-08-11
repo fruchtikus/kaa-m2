@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:39:51 CEST 2025
+dao-0.10.0-SNAPSHOT-sources.jar>=
+dao-0.10.0-SNAPSHOT.pom>=
+dao-0.10.0-SNAPSHOT-tests.jar>=
+dao-0.10.0-SNAPSHOT-javadoc.jar>=
+dao-0.10.0-SNAPSHOT.jar>=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 14:45:21 CEST 2025
+avro-1.7.5-KAA.pom>repository.kaaproject=
+avro-1.7.5-KAA.pom>kaa-project-insecure-repo=
+avro-1.7.5-KAA.jar>repository.kaaproject=
+avro-1.7.5-KAA.jar>typesafe=

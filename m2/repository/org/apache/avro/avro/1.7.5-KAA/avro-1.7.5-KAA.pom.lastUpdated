@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 14:24:00 CEST 2025
+@default-repository.kaaproject.snapshots-http\://repository.kaaproject.org/repository/snapshots/.lastUpdated=1720085411261
+@default-kaa-project-insecure-repo-http\://repository.kaaproject.org/repository/internal/.lastUpdated=1754478394186
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.avro\:avro\:pom\:1.7.5-KAA from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [typesafe (http\://repo.typesafe.com/typesafe/releases/, default, releases+snapshots), central (http\://repo1.maven.org/maven2/, default, releases+snapshots), twitter-twttr (http\://maven.twttr.com/, default, releases+snapshots)]
+http\://repository.kaaproject.org/repository/internal/.error=Could not transfer artifact org.apache.avro\:avro\:pom\:1.7.5-KAA from/to kaa-project-insecure-repo (http\://repository.kaaproject.org/repository/internal/)\: transfer failed for http\://repository.kaaproject.org/repository/internal/org/apache/avro/avro/1.7.5-KAA/avro-1.7.5-KAA.pom
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1754483039906
+http\://download.oracle.com/maven/.error=
+http\://repo.typesafe.com/typesafe/releases/.error=Could not transfer artifact org.apache.avro\:avro\:pom\:1.7.5-KAA from/to typesafe (http\://repo.typesafe.com/typesafe/releases/)\: Transfer failed for http\://repo.typesafe.com/typesafe/releases/org/apache/avro/avro/1.7.5-KAA/avro-1.7.5-KAA.pom
+@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1720085148818
+@default-repository.kaaproject-http\://repository.kaaproject.org/repository/internal/.lastUpdated=1720085280192
+https\://oss.sonatype.org/content/groups/public/.error=
+http\://maven.twttr.com/.lastUpdated=1720085149629
+http\://repository.kaaproject.org/repository/snapshots/.error=Could not transfer artifact org.apache.avro\:avro\:pom\:1.7.5-KAA from/to repository.kaaproject.snapshots (http\://repository.kaaproject.org/repository/snapshots/)\: Transfer failed for http\://repository.kaaproject.org/repository/snapshots/org/apache/avro/avro/1.7.5-KAA/avro-1.7.5-KAA.pom
+http\://localhost/repository/internal/.lastUpdated=1754483040495
+https\://repo.maven.apache.org/maven2/.lastUpdated=1754478394245
+http\://download.oracle.com/maven/.lastUpdated=1720085150954
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.avro\:avro\:pom\:1.7.5-KAA from/to central (http\://repo1.maven.org/maven2/)\: Transfer failed for http\://repo1.maven.org/maven2/org/apache/avro/avro/1.7.5-KAA/avro-1.7.5-KAA.pom 501 HTTPS Required
+https\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1754478258478
+http\://maven.twttr.com/.error=
+@default-typesafe-http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1720085148261

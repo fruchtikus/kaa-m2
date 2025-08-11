@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:36:45 CEST 2025
+client-java-desktop-0.10.0-SNAPSHOT-java-sdk.jar>=
+client-java-desktop-0.10.0-SNAPSHOT.jar>=
+client-java-desktop-0.10.0-SNAPSHOT-javadoc.jar>=
+client-java-desktop-0.10.0-SNAPSHOT-sdk.jar>=
+client-java-desktop-0.10.0-SNAPSHOT.pom>=

@@ -1,0 +1,22 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <mirrors>
+    <mirror>
+      <id>kaa-project-insecure-repo</id>
+      <mirrorOf>repository.kaaproject</mirrorOf>
+      <name>Allow insecure Kaa Project repository</name>
+      <url>http://localhost/repository/internal/</url>
+      <blocked>false</blocked>
+    </mirror>
+
+    <mirror>
+      <id>kaa-project-snapshots-insecure-repo</id>
+      <mirrorOf>repository.kaaproject.snapshots</mirrorOf>
+      <name>Allow insecure Kaa Project snapshots repository</name>
+      <url>http://localhost/repository/snapshots/</url>
+      <blocked>false</blocked>
+    </mirror>
+  </mirrors>
+</settings>

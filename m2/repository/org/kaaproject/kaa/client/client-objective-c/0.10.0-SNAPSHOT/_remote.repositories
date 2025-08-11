@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:37:47 CEST 2025
+client-objective-c-0.10.0-SNAPSHOT-objc-sdk.tar.gz>=
+client-objective-c-0.10.0-SNAPSHOT.pom>=
+client-objective-c-0.10.0-SNAPSHOT-objc-sdk-templates.tar.gz>=

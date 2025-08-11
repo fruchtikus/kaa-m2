@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:16:28 CEST 2025
+http\://0.0.0.0/.error=Could not transfer artifact org.kaaproject.avro-ui\:gwt-client\:pom\:0.2.1 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [twttr.com (http\://maven.twttr.com, default, releases+snapshots), central (http\://repo1.maven.org/maven2/, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1754486188332
+http\://repo.typesafe.com/typesafe/releases/.error=
+https\://oss.sonatype.org/content/groups/public/.error=
+http\://maven.twttr.com/.lastUpdated=1476865260468
+http\://repo1.maven.org/maven2/.lastUpdated=1476865261238
+http\://localhost/repository/.lastUpdated=1754486188341
+http\://repo1.maven.org/maven2/.error=
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1476865260729
+http\://repository.kaaproject.org/repository/internal/.lastUpdated=1476865261803
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476865261168
+http\://maven.twttr.com/.error=

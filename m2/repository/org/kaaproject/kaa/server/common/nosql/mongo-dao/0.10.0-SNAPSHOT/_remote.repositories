@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:40:21 CEST 2025
+mongo-dao-0.10.0-SNAPSHOT.pom>=
+mongo-dao-0.10.0-SNAPSHOT-tests.jar>=
+mongo-dao-0.10.0-SNAPSHOT.jar>=

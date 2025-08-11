@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:26:12 CEST 2025
+http\://localhost/repository/.lastUpdated=1754486771997
+http\://0.0.0.0/.error=Could not transfer artifact javax.xml.bind\:jaxb-api-parent\:pom\:2.3.1 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [twttr.com (http\://maven.twttr.com, default, releases+snapshots), central (http\://repo1.maven.org/maven2/, default, releases+snapshots), releases.java.net (http\://maven.java.net/content/repositories/releases/, default, releases+snapshots), shapshots.java.net (http\://maven.java.net/content/repositories/snapshots/, default, releases+snapshots), jvnet-nexus-staging (http\://maven.java.net/content/repositories/staging/, default, releases+snapshots), netbeans (http\://bits.netbeans.org/nexus/content/groups/netbeans, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1754486771989
+http\://localhost/repository/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1754486772332

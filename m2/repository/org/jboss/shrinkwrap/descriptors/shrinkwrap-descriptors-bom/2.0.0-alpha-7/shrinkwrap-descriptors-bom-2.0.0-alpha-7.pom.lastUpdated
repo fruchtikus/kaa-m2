@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 19 10:03:14 CEST 2016
+https\://oss.sonatype.org/content/groups/public/.error=
+@default-repository.kaaproject.shapshots-http\://repository.kaaproject.org/repository/snapshots/.lastUpdated=1476864193985
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476864193118
+http\://repository.kaaproject.org/repository/internal/.error=
+http\://maven.twttr.com/.lastUpdated=1476864193430
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1476864192674
+http\://repository.kaaproject.org/repository/internal/.lastUpdated=1476864193701
+http\://maven.twttr.com/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1476864194135
+http\://repo.typesafe.com/typesafe/releases/.error=
+http\://repository.kaaproject.org/repository/snapshots/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-7 from/to repository.kaaproject.shapshots (http\://repository.kaaproject.org/repository/snapshots/)\: Failed to transfer file\: http\://repository.kaaproject.org/repository/snapshots/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom. Return code is\: 409 , ReasonPhrase\:Conflict.

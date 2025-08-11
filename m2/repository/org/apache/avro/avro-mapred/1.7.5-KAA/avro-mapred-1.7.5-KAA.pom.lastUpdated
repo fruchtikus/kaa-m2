@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:44:33 CEST 2025
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476869190779
+http\://maven.twttr.com/.lastUpdated=1476869191378
+http\://localhost/repository/.lastUpdated=1754487873976
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1476869190313
+http\://repository.kaaproject.org/repository/internal/.lastUpdated=1476869191858
+http\://maven.twttr.com/.error=
+http\://repo.typesafe.com/typesafe/releases/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1476869190929
+http\://repo1.maven.org/maven2/.error=

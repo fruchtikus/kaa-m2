@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:16:27 CEST 2025
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.avro\:avro-compiler\:pom\:1.7.5-KAA from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [twttr.com (http\://maven.twttr.com, default, releases+snapshots), central (http\://repo1.maven.org/maven2/, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1754486186694
+http\://repo.typesafe.com/typesafe/releases/.error=
+https\://oss.sonatype.org/content/groups/public/.error=
+http\://maven.twttr.com/.lastUpdated=1476865195166
+http\://repo1.maven.org/maven2/.lastUpdated=1476865195806
+http\://localhost/repository/.lastUpdated=1754486187268
+http\://repo1.maven.org/maven2/.error=
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1476865195476
+http\://repository.kaaproject.org/repository/internal/.lastUpdated=1476865196402
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476865195651
+http\://maven.twttr.com/.error=

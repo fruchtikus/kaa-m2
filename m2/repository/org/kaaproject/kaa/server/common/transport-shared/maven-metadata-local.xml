@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kaaproject.kaa.server.common</groupId>
+  <artifactId>transport-shared</artifactId>
+  <versioning>
+    <versions>
+      <version>0.10.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250811123408</lastUpdated>
+  </versioning>
+</metadata>

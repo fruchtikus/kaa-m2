@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:38:23 CEST 2025
+thrift-0.10.0-SNAPSHOT.pom>=
+thrift-0.10.0-SNAPSHOT.jar>=

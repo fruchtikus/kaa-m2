@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:16:28 CEST 2025
+gwt-client-0.2.1.jar>repository.kaaproject=
+gwt-client-0.2.1.pom>typesafe=
+gwt-client-0.2.1.pom>repository.kaaproject=
+gwt-client-0.2.1.jar>typesafe=

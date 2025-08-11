@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 19 11:14:35 CEST 2016
+cassandra-appender-0.10.0-SNAPSHOT.jar>=
+cassandra-appender-0.10.0-SNAPSHOT.pom>=

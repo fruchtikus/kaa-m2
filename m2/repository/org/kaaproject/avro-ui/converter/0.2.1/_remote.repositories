@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:16:28 CEST 2025
+converter-0.2.1.pom>typesafe=
+converter-0.2.1.jar>repository.kaaproject=
+converter-0.2.1.pom>repository.kaaproject=
+converter-0.2.1.jar>typesafe=

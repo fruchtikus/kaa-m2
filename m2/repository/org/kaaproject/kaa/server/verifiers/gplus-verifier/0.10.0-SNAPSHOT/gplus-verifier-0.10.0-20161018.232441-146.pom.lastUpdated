@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 19 10:20:22 CEST 2016
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476865221882
+http\://repository.kaaproject.org/repository/snapshots/.lastUpdated=1476865222624
+@default-repository.kaaproject-http\://repository.kaaproject.org/repository/internal/.lastUpdated=1476865222196
+http\://repository.kaaproject.org/repository/internal/.error=Could not transfer artifact org.kaaproject.kaa.server.verifiers\:gplus-verifier\:pom\:0.10.0-20161018.232441-146 from/to repository.kaaproject (http\://repository.kaaproject.org/repository/internal/)\: Failed to transfer file\: http\://repository.kaaproject.org/repository/internal/org/kaaproject/kaa/server/verifiers/gplus-verifier/0.10.0-SNAPSHOT/gplus-verifier-0.10.0-20161018.232441-146.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://maven.twttr.com/.lastUpdated=1476865221434
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1476865221719
+http\://maven.twttr.com/.error=
+http\://repo.typesafe.com/typesafe/releases/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1476865222043

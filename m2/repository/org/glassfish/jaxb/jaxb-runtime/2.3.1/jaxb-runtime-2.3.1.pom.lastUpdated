@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 06 15:26:10 CEST 2025
+http\://localhost/repository/.lastUpdated=1754486768767
+http\://0.0.0.0/.error=Could not transfer artifact org.glassfish.jaxb\:jaxb-runtime\:pom\:2.3.1 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [twttr.com (http\://maven.twttr.com, default, releases+snapshots), central (http\://repo1.maven.org/maven2/, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1754486767852
+http\://localhost/repository/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1754486770196

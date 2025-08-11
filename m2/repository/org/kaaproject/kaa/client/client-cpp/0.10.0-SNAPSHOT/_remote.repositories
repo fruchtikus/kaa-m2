@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 14:37:29 CEST 2025
+client-cpp-0.10.0-SNAPSHOT.pom>=
+client-cpp-0.10.0-SNAPSHOT-cpp-sdk-templates.tar.gz>=
+client-cpp-0.10.0-SNAPSHOT-cpp-sdk.tar.gz>=
